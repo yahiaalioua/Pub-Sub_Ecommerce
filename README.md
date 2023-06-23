@@ -11,7 +11,7 @@ First of all when a message is being processed from the topic by a consumer, we 
 
 1)The message couldn´t be processed and therfore will fall into the dead letter topic or be deferred for a later retry.
 
-2)The message is processed succesfully and will be removed from the queue.
+2)The message is processed succesfully and will be removed from the topic.
 
 ![Processing of a message workflow](https://github.com/yahiaalioua/Pub-Sub_Ecommerce/blob/main/.vs/SubscriptionWorkFlow.drawio.png)
 
