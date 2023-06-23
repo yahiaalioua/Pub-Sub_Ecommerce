@@ -14,4 +14,4 @@ The message is processed succesfully and will be removed from the queue.
 
 ![Processing of a message workflow](https://github.com/yahiaalioua/Pub-Sub_Ecommerce/blob/main/.vs/SubscriptionWorkFlow.drawio.png)
 
-implementation with Azure Service Bus Topics and .Net
+Implementation with Azure Service Bus Topics and .Net
