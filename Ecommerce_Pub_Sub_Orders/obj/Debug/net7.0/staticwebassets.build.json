@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "leO5XyrSCBcdXmvS/bdZ250jgcAuTwFeGaQ9e0je0aY=",
+  "Source": "Ecommerce_Pub_Sub_Orders",
+  "BasePath": "_content/Ecommerce_Pub_Sub_Orders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
