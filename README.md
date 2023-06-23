@@ -5,7 +5,7 @@ and later be consumed by several services in order to process billing, order, an
 
 ![Pub-Sub Communication Pattern](https://github.com/yahiaalioua/Pub-Sub_Ecommerce/blob/main/PubSub.drawio.png)
 
-Teh Pub-Sub pattern has been implemented following these enterprise rules:
+The Pub-Sub pattern has been implemented following these enterprise rules:
 
 First of all when a message is being processed from the topic by a consumer, we should make sure that the message is locked and can`t be processed by other consumers. Once the message is processed there should be 2 outcomes:
 
