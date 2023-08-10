@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Ecommerce_Pub_Sub_Orders.props" />
-</Project>
