@@ -13,6 +13,6 @@ First of all when a message is being processed from the topic by a consumer, we 
 
 2)The message is processed succesfully and will be removed from the topic.
 
-![Processing of a message workflow](https://github.com/yahiaalioua/Pub-Sub_Ecommerce/blob/main/.vs/SubscriptionWorkFlow.drawio.png)
+![Processing of a message workflow](https://github.com/yahiaalioua/Pub-Sub_Ecommerce/blob/main/QueueDiagram2.drawio%20(1).png)
 
 Implementation with Azure Service Bus Topics and .Net
